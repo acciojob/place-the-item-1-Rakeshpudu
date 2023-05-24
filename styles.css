@@ -1,2 +1,24 @@
 
 /* Your CSS Code here. */
+#first{
+	background-color:green;
+width:90px;
+	height:85px;
+	font-
+}
+#second{
+	background-color:red;
+	width:90px;
+	height:85px
+}
+#third{
+	background-color:blue;
+	width:90px;
+	height:85px
+}
+.container{
+	display:flex;
+	flex-flow:row wrap;
+	justify-content:space-between;
+	
+}
